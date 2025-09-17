@@ -6,7 +6,7 @@
   "description": "Swaps the substring of a filename or URL that contains a hash with a replacement string.",
   "devDependencies": {
     "microbundle": "^0.15.1",
-    "vitest": "^0.21.1"
+    "vitest": "^3.2.4"
   },
   "engines": {
     "node": ">=16"
